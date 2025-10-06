@@ -1,4 +1,4 @@
-# Simulador de Viagem e Consumo de Combustível
+# Simulador de Viagem e Consumo de Combustível - Avaliação Subjetiva
 
 Este programa em **C++** simula uma viagem de carro com base nas informações inseridas pelo usuário.
 

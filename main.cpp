@@ -107,7 +107,7 @@ int main() {
     cout << "\n[Informações Adicionais]\n";
     cout << "Custo do abastecimento: R$ " << refuel_cost << "\n";
     cout << "Tempo estimado: " << travel_time << " h\n";
-    cout << "\n===== FIM =====\n";
+    cout << "\n==== FIM ====\n";
 
     return 0;
 }
