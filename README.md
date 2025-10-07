@@ -12,10 +12,10 @@ A equipe responsável pelo desenvolvimento é composta por: Airton Silva Ferreir
 Para atender aos requisitos de entrega, os seguintes artefatos de gestão e documentação foram produzidos:
 
 * **Gestão do Projeto (Trello):** O planejamento e acompanhamento das tarefas foram realizados no Trello.
-    * **[Acesse o Quadro do Trello aqui](https://trello.com/invite/b/68e4-6b4030ddabd091467d08/ATTIf485ea6a3bf0c2f3b1d261f26a6d3f98F6A52C8A/plano-de-acao-projeto-do-sandro) ou (https://drive.google.com/file/d/1mZxx3cNbuKR8poJp11SqnjJfT2OPhb7N/view?usp=sharing)**
+    * **[Acesse o Quadro do Trello aqui](https://trello.com/invite/b/68e4-6b4030ddabd091467d08/ATTIf485ea6a3bf0c2f3b1d261f26a6d3f98F6A52C8A/plano-de-acao-projeto-do-sandro) [ou] (https://drive.google.com/file/d/1mZxx3cNbuKR8poJp11SqnjJfT2OPhb7N/view?usp=sharing)**
 
 * **Organograma e Fluxograma (Lucidchart):** A estrutura da equipe e o fluxo lógico do sistema estão detalhados no documento abaixo.
-    * **[Acesse o Organograma](https://lucid.app/lucidchart/865373ca-b284-40b2-86ef-6cea69f871bd/edit?viewport_loc=-405%2C237%2C2392%2C1173%2CL6LdhCrfnsHj&invitationId=inv_58fb2498-b660-4fb6-a215-7f4c46f3fc43) e o Fluxograma aqui(https://drive.google.com/file/d/18cPPFL0FAsa-bBKQx3O8tfT3e6nJC8fo/view?usp=sharing)**
+    * **[Acesse o Organograma](https://lucid.app/lucidchart/865373ca-b284-40b2-86ef-6cea69f871bd/edit?viewport_loc=-405%2C237%2C2392%2C1173%2CL6LdhCrfnsHj&invitationId=inv_58fb2498-b660-4fb6-a215-7f4c46f3fc43) [e o Fluxograma aqui](https://drive.google.com/file/d/18cPPFL0FAsa-bBKQx3O8tfT3e6nJC8fo/view?usp=sharing)**
 
 * **Documentação Completa do Projeto (Google Drive):** Toda a documentação do projeto está centralizada no Google Drive.
     * **[Documento de Requisitos](https://drive.google.com/file/d/1q-qaULdTsIrWsw-8lecjkt0PvzNnZZv3/view?usp=sharing)**
