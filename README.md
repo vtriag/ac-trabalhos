@@ -1,7 +1,5 @@
 # Simulador de Viagem e Consumo de Combustível - Avaliação Subjetiva
 
-# Sistema de Simulação de Consumo Veicular
-
 ## 1. Visão Geral do Projeto
 Este projeto apresenta um Sistema de Consumo Veicular desenvolvido em C++. O objetivo é calcular e validar a quantidade de combustível necessária para um deslocamento, considerando como a velocidade média impacta a autonomia do veículo. A aplicação simula cenários de viagem, processando variáveis como distância, tempo, capacidade do tanque e custos de abastecimento para auxiliar no planejamento eficiente de trajetos.
 
