@@ -10,7 +10,7 @@ A equipe responsável pelo desenvolvimento é composta por: Airton Silva Ferreir
 Para atender aos requisitos de entrega, os seguintes artefatos de gestão e documentação foram produzidos:
 
 * **Gestão do Projeto (Trello):** O planejamento e acompanhamento das tarefas foram realizados no Trello.
-    * **[Acesse o Quadro do Trello aqui](https://trello.com/invite/b/68e4-6b4030ddabd091467d08/ATTIf485ea6a3bf0c2f3b1d261f26a6d3f98F6A52C8A/plano-de-acao-projeto-do-sandro) 
+    * **[Acesse o Quadro do Trello aqui](https://trello.com/invite/b/68e46b4030ddabd091467d08/ATTIf485ea6a3bf0c2f3b1d261f26a6d3f98F6A52C8A/plano-de-acao-projeto-do-sandro) 
     [ou] (https://drive.google.com/file/d/1mZxx3cNbuKR8poJp11SqnjJfT2OPhb7N/view?usp=sharing)**
 
 * **Organograma e Fluxograma (Lucidchart):** A estrutura da equipe e o fluxo lógico do sistema estão detalhados no documento abaixo.
